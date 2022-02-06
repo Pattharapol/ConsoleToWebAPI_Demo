@@ -18,3 +18,23 @@ D:\TIKK\C#_Prarice_WebApp\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\Conso
 D:\TIKK\C#_Prarice_WebApp\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\scopedcss\bundle\ConsoleToWebAPI.styles.css
 D:\TIKK\C#_Prarice_WebApp\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\staticwebassets\ConsoleToWebAPI.StaticWebAssets.Manifest.cache
 D:\TIKK\C#_Prarice_WebApp\ConsoleToWebAPI\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.RazorTargetAssemblyInfo.cache
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\bin\Debug\net5.0\ConsoleToWebAPI.exe
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\bin\Debug\net5.0\ConsoleToWebAPI.deps.json
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\bin\Debug\net5.0\ConsoleToWebAPI.runtimeconfig.json
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\bin\Debug\net5.0\ConsoleToWebAPI.runtimeconfig.dev.json
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\bin\Debug\net5.0\ConsoleToWebAPI.dll
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\bin\Debug\net5.0\ref\ConsoleToWebAPI.dll
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\bin\Debug\net5.0\ConsoleToWebAPI.pdb
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.AssemblyInfoInputs.cache
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.AssemblyInfo.cs
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.csproj.CoreCompileInputs.cache
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\scopedcss\bundle\ConsoleToWebAPI.styles.css
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\staticwebassets\ConsoleToWebAPI.StaticWebAssets.Manifest.cache
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.RazorTargetAssemblyInfo.cache
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.dll
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ref\ConsoleToWebAPI.dll
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.pdb
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.genruntimeconfig.cache
+D:\#1 CodingArea\C#_Pratice_WebAPI\ConsoleToWebAPI_Demo\ConsoleToWebAPI\obj\Debug\net5.0\ConsoleToWebAPI.csproj.AssemblyReference.cache
