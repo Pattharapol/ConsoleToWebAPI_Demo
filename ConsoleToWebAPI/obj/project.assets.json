@@ -8,27 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Pattharapol-PC\\.nuget\\packages\\": {}
+    "C:\\Users\\Pattharapol Lakboon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TIKK\\C#_Prarice_WebApp\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
+      "projectUniqueName": "D:\\#1 CodingArea\\C#_Pratice_WebAPI\\ConsoleToWebAPI_Demo\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
       "projectName": "ConsoleToWebAPI",
-      "projectPath": "D:\\TIKK\\C#_Prarice_WebApp\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
-      "packagesPath": "C:\\Users\\Pattharapol-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\TIKK\\C#_Prarice_WebApp\\ConsoleToWebAPI\\ConsoleToWebAPI\\obj\\",
+      "projectPath": "D:\\#1 CodingArea\\C#_Pratice_WebAPI\\ConsoleToWebAPI_Demo\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
+      "packagesPath": "C:\\Users\\Pattharapol Lakboon\\.nuget\\packages\\",
+      "outputPath": "D:\\#1 CodingArea\\C#_Pratice_WebAPI\\ConsoleToWebAPI_Demo\\ConsoleToWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Pattharapol-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+        "C:\\Users\\Pattharapol Lakboon\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\DevExpress 21.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -57,6 +56,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"

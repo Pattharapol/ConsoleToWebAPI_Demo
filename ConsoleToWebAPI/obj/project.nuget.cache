@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xfd7Pix0uyG4CwfQinBTz3u9XJwIoIhuMl0jvp8YTSWGJakMJ7VNBX4+AY5VBTQqx/VgTWB59Z0R1p+SKFF0xA==",
+  "dgSpecHash": "Bu1Yu6DV+Zf5G8k+gvlbu7E/G4D7a2i7hQc5Od2F6g+LLjX7Jg0CNKiU0tFXklDYBqLoOIl0u5n0WsySQYbHww==",
   "success": true,
-  "projectFilePath": "D:\\TIKK\\C#_Prarice_WebApp\\ConsoleToWebAPI\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\#1 CodingArea\\C#_Pratice_WebAPI\\ConsoleToWebAPI_Demo\\ConsoleToWebAPI\\ConsoleToWebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pattharapol Lakboon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
